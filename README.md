@@ -38,5 +38,5 @@ graph LR
 
 ## Additional Resources
 
-- [Video 1- While Turning](https://www.youtube.com/watch?v=t4xhGbE3CjM)
-- [Video 2- While vehicle is driving straight](https://www.youtube.com/watch?v=FN9DlMTgXzs)
+- [Video 1- While Turning](https://www.youtube.com/watch?v=2Ok2Hdme6ms)
+- [Video 2- While vehicle is driving straight](https://www.youtube.com/watch?v=-Iyswlo92C0)
